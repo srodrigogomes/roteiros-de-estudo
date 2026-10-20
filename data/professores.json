@@ -1,0 +1,6 @@
+[
+  { "id": "marta", "nome": "Marta Oliveira", "disciplina": "Matemática", "escola": "Escola Municipal Santos Dumont" },
+  { "id": "carlos", "nome": "Carlos Henrique Souza", "disciplina": "Português", "escola": "Escola Municipal Machado de Assis" },
+  { "id": "ana", "nome": "Ana Paula Ferreira", "disciplina": "Ciências", "escola": "Escola Municipal Monteiro Lobato" },
+  { "id": "roberto", "nome": "Roberto Lima", "disciplina": "História", "escola": "Escola Municipal Tiradentes" }
+]

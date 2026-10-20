@@ -1,0 +1,97 @@
+[
+  {
+    "id": "fracoes",
+    "titulo": "Entendendo as frações",
+    "disciplina": "Matemática",
+    "ano": 6,
+    "tema": "Frações",
+    "tempoMinutos": 25,
+    "professorId": "marta",
+    "termoWikipedia": "Fração",
+    "explicacao": "Fração é uma forma de representar partes de um todo. Em 3/4, o número de baixo (denominador) diz em quantas partes iguais o todo foi dividido, e o número de cima (numerador) diz quantas partes foram pegas.",
+    "questoes": [
+      { "pergunta": "Qual é o numerador e qual é o denominador de 2/5?", "resposta": "O numerador é 2 e o denominador é 5." },
+      { "pergunta": "Uma pizza foi dividida em 8 pedaços iguais e você comeu 3. Que fração da pizza você comeu?", "resposta": "3/8." },
+      { "pergunta": "1/2 é maior ou menor que 1/4?", "resposta": "É maior, porque dividir em 2 partes gera pedaços maiores do que dividir em 4." }
+    ]
+  },
+  {
+    "id": "verbos",
+    "titulo": "Verbos e os tempos verbais",
+    "disciplina": "Português",
+    "ano": 6,
+    "tema": "Verbos",
+    "tempoMinutos": 20,
+    "professorId": "carlos",
+    "termoWikipedia": "Verbo",
+    "explicacao": "Verbo é a palavra que indica ação, estado ou fenômeno da natureza. Ele muda conforme o tempo: passado, presente ou futuro.",
+    "questoes": [
+      { "pergunta": "Quais são os verbos em: Ana estuda e Pedro corre?", "resposta": "Estuda e corre." },
+      { "pergunta": "Em que tempo está a frase: Eu cantei ontem?", "resposta": "No passado." },
+      { "pergunta": "Passe a frase 'Nós brincamos' para o futuro.", "resposta": "Nós brincaremos." }
+    ]
+  },
+  {
+    "id": "sistema-solar",
+    "titulo": "Conhecendo o Sistema Solar",
+    "disciplina": "Ciências",
+    "ano": 6,
+    "tema": "Sistema Solar",
+    "tempoMinutos": 25,
+    "professorId": "ana",
+    "termoWikipedia": "Sistema Solar",
+    "explicacao": "O Sistema Solar é formado pelo Sol e pelos astros que giram ao redor dele, como os oito planetas, as luas e os asteroides. O Sol é uma estrela e concentra quase toda a massa do sistema.",
+    "questoes": [
+      { "pergunta": "Quantos planetas existem no Sistema Solar?", "resposta": "Oito." },
+      { "pergunta": "Qual é o planeta mais próximo do Sol?", "resposta": "Mercúrio." },
+      { "pergunta": "O Sol é um planeta ou uma estrela?", "resposta": "É uma estrela." }
+    ]
+  },
+  {
+    "id": "fotossintese",
+    "titulo": "Como as plantas fazem seu alimento",
+    "disciplina": "Ciências",
+    "ano": 7,
+    "tema": "Fotossíntese",
+    "tempoMinutos": 30,
+    "professorId": "ana",
+    "termoWikipedia": "Fotossíntese",
+    "explicacao": "Fotossíntese é o processo em que as plantas usam luz do sol, água e gás carbônico para produzir o próprio alimento e liberar oxigênio. Ela acontece principalmente nas folhas, em partes chamadas cloroplastos, que têm clorofila.",
+    "questoes": [
+      { "pergunta": "O que a planta precisa para fazer a fotossíntese?", "resposta": "Água, gás carbônico e luz do sol." },
+      { "pergunta": "Que gás a planta libera na fotossíntese?", "resposta": "Oxigênio." },
+      { "pergunta": "Como se chama o pigmento verde que capta a luz?", "resposta": "Clorofila." }
+    ]
+  },
+  {
+    "id": "revolucao-industrial",
+    "titulo": "A Revolução Industrial",
+    "disciplina": "História",
+    "ano": 8,
+    "tema": "Revolução Industrial",
+    "tempoMinutos": 35,
+    "professorId": "roberto",
+    "termoWikipedia": "Revolução Industrial",
+    "explicacao": "A Revolução Industrial começou na Inglaterra, no século XVIII, quando as máquinas passaram a substituir parte do trabalho manual. As fábricas cresceram, as cidades receberam muitos trabalhadores e surgiu a classe operária.",
+    "questoes": [
+      { "pergunta": "Em que país a Revolução Industrial começou?", "resposta": "Na Inglaterra." },
+      { "pergunta": "O que mudou no trabalho com a chegada das máquinas?", "resposta": "A produção passou a ser feita em fábricas, em maior quantidade, no lugar do trabalho manual." },
+      { "pergunta": "Que grupo de trabalhadores cresceu nas cidades industriais?", "resposta": "Os operários." }
+    ]
+  },
+  {
+    "id": "pitagoras",
+    "titulo": "O Teorema de Pitágoras",
+    "disciplina": "Matemática",
+    "ano": 9,
+    "tema": "Teorema de Pitágoras",
+    "tempoMinutos": 30,
+    "professorId": "marta",
+    "termoWikipedia": "Teorema de Pitágoras",
+    "explicacao": "Em um triângulo retângulo, o quadrado da hipotenusa (o lado maior, oposto ao ângulo reto) é igual à soma dos quadrados dos catetos: a² = b² + c².",
+    "questoes": [
+      { "pergunta": "Um triângulo retângulo tem catetos 3 e 4. Quanto mede a hipotenusa?", "resposta": "5, pois 9 + 16 = 25 e a raiz de 25 é 5." },
+      { "pergunta": "O teorema vale para qualquer triângulo?", "resposta": "Não, só para triângulos retângulos." }
+    ]
+  }
+]
